@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Names
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Names\ here.\ vidy\ was\ here\r\n\r\n\ @author\ Nishn\ Aerabati\ \r\n\ @version\ 11/22\r\n
+comment1.params=
+comment1.target=Names()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Names\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ lessPopularNames()
+comment2.text=\r\n\ Finds\ the\ popular\ names\ in\ the\ hashmap\r\n\ @return\ returns\ an\ arrayList\ with\ all\ the\ names\ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ popularNames()
+comment4.params=name
+comment4.target=java.util.ArrayList\ nameRankForDecade(java.lang.String)
+comment4.text=\r\n\ finds\ the\ ranks\ for\ a\ name\ for\ all\ decade\r\n\ @param\ string\ name\ with\ Capital\ first\ letter\r\n\ @return\ returns\ an\ arrayList\ with\ all\ the\ names\ \r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ namesInOneDecade()
+comment5.text=\r\n\ finds\ all\ the\ names\ in\ one\ decade\ \r\n\ @return\ returns\ an\ arrayList\ with\ all\ the\ names\ \r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ namesInAllDecades()
+comment6.text=\r\n\ finds\ all\ the\ names\ that\ appear\ in\ every\ decade\r\n\ @return\ returns\ an\ arrayList\ with\ all\ the\ names\ \r\n
+comment7.params=name\ year
+comment7.target=int\ nameInCertainDecade(java.lang.String,\ java.lang.String)
+comment7.text=\r\n\ finds\ the\ rank\ for\ a\ name\ and\ year\ \r\n\ @param\ String\ name,\ String\ year\ \r\n
+comment8.params=name
+comment8.target=void\ graphForName(java.lang.String)
+comment8.text=\r\n\ creates\ a\ new\ graph\ and\ plots\ th\ graph\ based\ on\ the\ parameter\ string\ \r\n\ @param\ String\ name\r\n
+numComments=9

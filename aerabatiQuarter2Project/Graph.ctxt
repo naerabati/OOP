@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Graph
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plot\ here.\r\n\r\n\ @author\ Nishna\ Aerabati\ \r\n\ @version\ 12/1\r\n
+comment1.params=w\ h
+comment1.target=Graph(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plot\r\n\ @param\ int\ w\ is\ the\ width\ and\ int\ h\ is\ the\ height\ of\ the\ grpah\ \r\n
+comment2.params=
+comment2.target=void\ drawGridLines()
+comment2.text=\r\n\ draws\ the\ axis\ and\ marks\ \r\n
+comment3.params=n\ rank
+comment3.target=void\ points(java.lang.String,\ java.util.ArrayList)
+comment3.text=\r\n\ draws\ the\ graph\ based\ on\ which\ number\ location\ and\ percentage\r\n\ @param\ takes\ in\ the\ number\ for\ location\ and\ the\ percentage\ for\ height\r\n
+comment4.params=
+comment4.target=void\ drawConnectingLines()
+comment4.text=\r\n\ draws\ lines\ for\ the\ grpah\ based\ on\ the\ x\ points\ and\ y\ points\ connect\ the\ points\ \r\n
+numComments=5

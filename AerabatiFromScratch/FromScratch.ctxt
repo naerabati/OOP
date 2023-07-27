@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=FromScratch
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FromScratch\ here.\r\n\r\n\ @author\ Nishna\ Aerabati\r\n\ @version\ 9/2/2021\r\n
+comment1.params=
+comment1.target=FromScratch()
+comment10.params=
+comment10.target=int\ getNumber()
+comment11.params=
+comment11.target=void\ print()
+comment2.params=num\ dec\ nm\ truth
+comment2.target=FromScratch(int,\ double,\ java.lang.String,\ boolean)
+comment3.params=n
+comment3.target=void\ setName(java.lang.String)
+comment4.params=number
+comment4.target=void\ setNumber(int)
+comment5.params=n
+comment5.target=void\ setDecimal(double)
+comment6.params=n
+comment6.target=void\ setTruth(boolean)
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=boolean\ getTruth()
+comment9.params=
+comment9.target=double\ getDecimal()
+numComments=12
