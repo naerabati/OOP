@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\nThis\ class\ will\ analyze\ fictious\ contact\ tracing\ data\ for\ a\ fictious\ zombie\ disease.\r\n\r\n\ @author\ (Tatyana\ Pronitcheva)\r\n\ @version\ (12/10/22)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ analyzeFile()
+comment3.params=
+comment3.target=void\ contactRecords()
+comment4.params=
+comment4.target=void\ possiblePatientZero()
+comment5.params=
+comment5.target=java.util.ArrayList\ helperPossiblePatientZero()
+comment6.params=
+comment6.target=void\ potentialZombies()
+comment7.params=
+comment7.target=void\ Neither()
+comment8.params=
+comment8.target=void\ mostViral()
+comment9.params=
+comment9.target=void\ mostContacted()
+numComments=10
