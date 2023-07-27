@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plot\ here.\r\n\r\n\ @author\ Nishna\ Aerabati\r\n\ @version\ \r\n
+comment1.params=w\ h
+comment1.target=Plot(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plot\r\n
+comment2.params=
+comment2.target=void\ drawGridLines()
+comment2.text=\r\n\ draws\ gridlines\ for\ 9\ on\ x\ axis\ and\ 6\ on\ the\ y\ axis\r\n\r\n
+comment3.params=digit\ percentage
+comment3.target=void\ drawGraph(int,\ int)
+comment3.text=\r\n\ draws\ bars\ on\ the\ graph\ based\ on\ the\ percentage\r\n@param\ the\ integer\ digit\ for\ the\ leading\ number\ and\ the\ percentage\ of\ the\ total\ \r\neach\ leading\ digit\ is\ \r\n
+numComments=4

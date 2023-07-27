@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=RMS
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RMS\ here.\r\n\r\n\ @author\ Nishna\ Aerabati\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RMS()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ RMS\r\n
+comment2.params=
+comment2.target=void\ populateList()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=array
+comment3.target=int\ calcSum(java.util.ArrayList)
+comment4.params=array
+comment4.target=double\ calcAvg(java.util.ArrayList)
+comment5.params=arra
+comment5.target=double\ calcRMS(java.util.ArrayList)
+comment6.params=modArr
+comment6.target=java.util.ArrayList\ modifiedLis(java.util.ArrayList)
+comment7.params=modArr
+comment7.target=java.util.ArrayList\ modifiedList(java.util.ArrayList)
+comment8.params=
+comment8.target=void\ outputResults()
+numComments=9
